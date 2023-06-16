@@ -1,2 +1,2 @@
 # MathsForAI
-Matemáticas básicas para IA. Código de operaciones matemáticas en Python.
+Matemáticas básicas para IA. Código fuente de operaciones matemáticas en Python.
